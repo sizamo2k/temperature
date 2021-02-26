@@ -1,0 +1,13 @@
+
+body {
+    background: rgb(26, 255, 26);
+    background: linear-gradient(90deg, rgb(76, 26, 255) 0%, rgb(255, 71, 71) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF1B6B", endColorstr="#45CAFF", GradientType=1 );
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    padding: 1em;
+}
